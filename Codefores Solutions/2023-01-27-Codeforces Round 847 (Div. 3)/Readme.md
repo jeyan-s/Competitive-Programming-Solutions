@@ -12,7 +12,7 @@ Welcome to my repository for the Codeforces Round 847 (Div. 3) contest! Here, yo
 ## Contest Standings
 
 - **Username:** jeyan_s
-- **Rank:** 7494
+- **Rank:** 5747
 - **Problems Solved:** 3
 - **Total Number of problems:** 7
 
