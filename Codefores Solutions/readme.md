@@ -1,13 +1,10 @@
 # Competitive Programming Solutions
 
-This repository contains my solutions to various Codeforces contests and educational rounds. Each directory represents a specific contest or round, and you can explore the solutions for individual problems within each directory.
+This repository contains my solutions to various Codeforces contests and educational rounds. Each directory represents a specific contest or round, and you can explore the solutions for individual problems within each directory. You can have a look at my Codeforces profile **[jeyan_s](https://codeforces.com/profile/jeyan_s)**
 
 ## Programming Languages
 
 My solutions for these contests are primarily written in C++ and Python.
-
-## Codeforces Profile
-**[jeyan_s](https://codeforces.com/profile/jeyan_s)**
 
 ## Solutions
 
