@@ -104,7 +104,7 @@ This repository contains my solutions to various Codeforces contests and educati
   - **Problems Solved:** 6
   - **Rank:** 4735
 
-- 1) [2023-01-27-Codeforces Round 847 (Div. 3)](./2023-01-27-Codeforces%20Round%20847%20(Div.%203)/)
+- [1) 2023-01-27-Codeforces Round 847 (Div. 3)](./2023-01-27-Codeforces%20Round%20847%20(Div.%203)/)
   - **Problems Solved:** 3/7
   - **Rank:** 5747
 
