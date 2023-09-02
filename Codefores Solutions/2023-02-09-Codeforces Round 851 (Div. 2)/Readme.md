@@ -12,7 +12,7 @@ Welcome to my repository for the Codeforces Round 851 (Div. 2) contest! Here, yo
 ## Contest Standings
 
 - **Username:** jeyan_s
-- **Rank:** 5803
+- **Rank:** 4897
 - **Problems Solved:** 2
 - **Total Number of Problems:** 6
 
