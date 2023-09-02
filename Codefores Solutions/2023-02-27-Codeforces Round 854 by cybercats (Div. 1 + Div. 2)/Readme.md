@@ -12,7 +12,7 @@ Welcome to my repository for the Codeforces Round 854 by cybercats (Div. 1 + Div
 ## Contest Standings
 
 - **Username:** jeyan_s
-- **Rank:** 5190
+- **Rank:** 4718
 - **Problems Solved:** 1
 - **Total Number of Problems:** 9
 
