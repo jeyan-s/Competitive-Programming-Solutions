@@ -7,8 +7,7 @@ This repository contains my solutions to various Codeforces contests and educati
 My solutions for these contests are primarily written in C++ and Python.
 
 ## Codeforces Profile
-
-- **[jeyan_s](https://codeforces.com/profile/jeyan_s)**
+**[jeyan_s](https://codeforces.com/profile/jeyan_s)**
 
 ## Solutions
 
