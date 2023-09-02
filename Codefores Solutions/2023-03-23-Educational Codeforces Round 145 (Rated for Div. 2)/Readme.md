@@ -18,7 +18,7 @@ Welcome to my repository for the Educational Codeforces Round 145 (Rated for Div
 
 ## Problems
 
-- **A - [OGarland](https://codeforces.com/contest/1809/problem/A)**
+- **A - [Garland](https://codeforces.com/contest/1809/problem/A)**
 
 ## Solutions in Python
 
