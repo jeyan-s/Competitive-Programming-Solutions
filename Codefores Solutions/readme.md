@@ -11,6 +11,7 @@ My solutions for these contests are primarily written in C++ and Python.
 - **Username:** jeyan_s
 - **[Codeforces Profile](https://codeforces.com/profile/jeyan_s)**
 
+## Solutions
 
 | #  | Contest Name                                           | Problems Solved | Rank  |
 | -- | ------------------------------------------------------ | --------------- | ----- |
@@ -41,9 +42,16 @@ My solutions for these contests are primarily written in C++ and Python.
 | 2  | [2023-02-03-Codeforces Round 849 (Div. 4)](./2023-02-03-Codeforces%20Round%20849%20(Div.%204)/)                         | 6/8             | 2782  |
 | 1  | [2023-01-27-Codeforces Round 847 (Div. 3)](./2023-01-27-Codeforces%20Round%20847%20(Div.%203)/)                         | 3/7             | 5747  |
 
+## Other Platform Profiles
+
+- **LeetCode:** [jeyan_s](https://leetcode.com/jeyan_s)
+- **CodeChef:** [smartie_jack](https://codechef.com/users/smartie_jack)
+- **AtCoder:** [Jack_01](http://atcoder.jp/users/Jack_01)
+
+
 ## Notes
 
-- Feel free to reach out if you have any questions or suggestions regarding these solutions.
+- Feel free to reach out @https://www.linkedin.com/in/jeyan-s-a35130229 if you have any questions or suggestions regarding these solutions.
 - If you find any issues or have improvements to suggest, please don't hesitate to create an issue or pull request.
 
 Happy coding!
