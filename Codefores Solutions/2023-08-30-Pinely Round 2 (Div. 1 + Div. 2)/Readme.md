@@ -23,9 +23,9 @@ Welcome to my repository for the Pinely Round 2 (Div. 1 + Div. 2) contest! Here,
 - **C - [MEX Repetition](https://codeforces.com/contest/1863/problem/C)**
 - **D - [Two-Colored Dominoes](https://codeforces.com/contest/1863/problem/D)**
 
-## Solutions in Python
+## Solutions in C++
 
-All of my solutions for this contest are written in Python. You can explore the Python code to see how I approached the challenges.
+All of my solutions for this contest are written in C++. You can explore the C++ code to see how I approached the challenges.
 
 ## Notes
 
