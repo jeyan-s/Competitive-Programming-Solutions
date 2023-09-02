@@ -8,8 +8,7 @@ My solutions for these contests are primarily written in C++ and Python.
 
 ## Codeforces Profile
 
-- **Username:** jeyan_s
-- **[Codeforces Profile](https://codeforces.com/profile/jeyan_s)**
+- **[jeyan_s](https://codeforces.com/profile/jeyan_s)**
 
 ## Solutions
 
