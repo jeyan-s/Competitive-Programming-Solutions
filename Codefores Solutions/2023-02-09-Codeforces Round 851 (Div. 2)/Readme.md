@@ -14,6 +14,7 @@ Welcome to my repository for the Codeforces Round 851 (Div. 2) contest! Here, yo
 - **Username:** jeyan_s
 - **Rank:** 5803
 - **Problems Solved:** 2
+- **Total Number of Problems:** 6
 
 ## Problems
 
