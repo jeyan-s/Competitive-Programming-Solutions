@@ -2,7 +2,7 @@
 
 ## Contest Information
 
-- **Contest Date:** January 27 2023
+- **Contest Date:** January 27, 2023
 - **Contest Link:** [Codeforces Round 847 (Div. 3)](https://codeforces.com/contest/1790)
 
 ## Overview
