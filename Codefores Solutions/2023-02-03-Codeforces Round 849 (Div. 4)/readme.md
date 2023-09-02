@@ -12,7 +12,7 @@ Welcome to my repository for the Codeforces Round 849 (Div. 4) contest! Here, yo
 ## Contest Standings
 
 - **Username:** jeyan_s
-- **Rank:** 4735
+- **Rank:** 2782
 - **Problems Solved:** 6
 - **Total Number of Problems:** 8
 
