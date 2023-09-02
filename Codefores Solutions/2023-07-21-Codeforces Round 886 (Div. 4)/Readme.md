@@ -24,6 +24,10 @@ Welcome to my repository for the Codeforces Round 886 (Div. 4) contest! Here, yo
 - **D - [Balanced Round](https://codeforces.com/contest/1850/problem/D)**
 - **E - [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E)**
 
+## Upsolved Problems
+
+- **G - [The Morning Star](https://codeforces.com/contest/1850/problem/G)**
+
 ## Solutions in Python
 
 All of my solutions for this contest are written in Python. You can explore the Python code to see how I approached the challenges.
