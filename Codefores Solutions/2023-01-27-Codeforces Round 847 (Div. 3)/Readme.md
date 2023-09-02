@@ -2,7 +2,7 @@
 
 ## Contest Information
 
-- **Contest Date:** Jan 27 2023
+- **Contest Date:** January 27 2023
 - **Contest Link:** [Codeforces Round 847 (Div. 3)](https://codeforces.com/contest/1790)
 
 ## Overview
@@ -14,6 +14,7 @@ Welcome to my repository for the Codeforces Round 847 (Div. 3) contest! Here, yo
 - **Username:** jeyan_s
 - **Rank:** 7494
 - **Problems Solved:** 3
+- **Total Number of problems:** 7
 
 ## Problems
 
