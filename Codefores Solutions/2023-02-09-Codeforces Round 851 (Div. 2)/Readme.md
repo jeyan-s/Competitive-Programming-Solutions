@@ -18,7 +18,7 @@ Welcome to my repository for the Codeforces Round 851 (Div. 2) contest! Here, yo
 
 ## Problems
 
-- **A - [A-One and Two](https://codeforces.com/contest/1788/problem/A)**
+- **A - [One and Two](https://codeforces.com/contest/1788/problem/A)**
 - **C - [Prepend and Append](https://codeforces.com/contest/1788/problem/C)**
 
 ## Solutions in Python
