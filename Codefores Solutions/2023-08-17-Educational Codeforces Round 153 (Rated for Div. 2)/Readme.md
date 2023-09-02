@@ -18,7 +18,7 @@ Welcome to my repository for the Educational Codeforces Round 153 (Rated for Div
 
 ## Problems
 
-- **A - [Not A Substring](https://codeforces.com/contest/1860/problem/A)**
+- **A - [Not a Substring](https://codeforces.com/contest/1860/problem/A)**
 - **B - [Fancy Coins](https://codeforces.com/contest/1860/problem/B)**
 - **C - [Game on Permutation](https://codeforces.com/contest/1860/problem/C)**
 
