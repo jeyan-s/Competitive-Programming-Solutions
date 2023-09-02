@@ -2,6 +2,10 @@
 
 This repository contains my solutions to various Codeforces contests and educational rounds. Each directory represents a specific contest or round, and you can explore the solutions for individual problems within each directory.
 
+## Programming Languages
+
+My solutions for these contests are primarily written in C++ and Python.
+
 ## Contest Directories
 
 - [26) 2023-08-31-Educational Codeforces Round 154 (Rated for Div. 2)](./2023-08-31-Educational%20Codeforces%20Round%20154%20(Rated%20for%20Div.%202)/)
