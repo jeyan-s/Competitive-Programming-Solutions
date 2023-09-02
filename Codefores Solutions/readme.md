@@ -114,7 +114,7 @@ My solutions for these contests are primarily written in C++ and Python.
 
 ## Notes
 
-- Feel free to reach out if you have any questions or suggestions regarding these solutions.
+- Feel free to reach out @https://www.linkedin.com/in/jeyan-s-a35130229/ if you have any questions or suggestions regarding these solutions.
 - If you find any issues or have improvements to suggest, please don't hesitate to create an issue or pull request.
 
 Happy coding!
