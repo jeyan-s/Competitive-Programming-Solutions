@@ -110,7 +110,6 @@ This repository contains my solutions to various Codeforces contests and educati
 
 ## Notes
 
-- These solutions were developed during the contests and may not represent the most optimized or efficient approaches.
 - Feel free to reach out if you have any questions or suggestions regarding these solutions.
 - If you find any issues or have improvements to suggest, please don't hesitate to create an issue or pull request.
 
