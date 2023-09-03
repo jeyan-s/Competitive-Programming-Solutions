@@ -33,7 +33,7 @@ My solutions for these contests are primarily written in C++ and Python.
 | 6  | [2023-03-12-Nebius Welcome Round (Div. 1 + Div. 2)](./2023-03-12-Nebius%20Welcome%20Round%20(Div.%201%20%2B%20Div.%202)/) | 2/8             | 3966  |
 | 5  | [2023-02-27-Codeforces Round 854 by cybercats (Div. 1 + Div. 2)](./2023-02-27-Codeforces%20Round%20854%20by%20cybercats%20(Div.%201%20%2B%20Div.%202)/) | 1/9             | 4718  |
 | 4  | [2023-02-25-Codeforces Round 853 (Div. 2)](./2023-02-25-Codeforces%20Round%20853%20(Div.%202)/)                         | 1/6             | 7604  |
-| 3  | [2023-02-09-Codeforces Round 851 (Div. 2)](./2023-02-09-Codeforces%20Round%20851%20(Div.%202)/)                         | 4897            | 2/6   |
+| 3  | [2023-02-09-Codeforces Round 851 (Div. 2)](./2023-02-09-Codeforces%20Round%20851%20(Div.%202)/)                         | 2/6             | 4897  |
 | 2  | [2023-02-03-Codeforces Round 849 (Div. 4)](./2023-02-03-Codeforces%20Round%20849%20(Div.%204)/)                         | 6/8             | 2782  |
 | 1  | [2023-01-27-Codeforces Round 847 (Div. 3)](./2023-01-27-Codeforces%20Round%20847%20(Div.%203)/)                         | 3/7             | 5747  |
 
