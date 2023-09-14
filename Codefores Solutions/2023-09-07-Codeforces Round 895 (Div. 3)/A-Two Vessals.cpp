@@ -1,3 +1,6 @@
+// Link to Problem Statement
+// https://codeforces.com/contest/1872/problem/B
+
 #include <bits/stdc++.h>
 using namespace std;
 
