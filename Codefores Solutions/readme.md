@@ -13,7 +13,7 @@ My solutions for these contests are primarily written in C++ and Python.
 | 28 | [2023-09-11-Codeforces Round 897 (Div. 2)](./2023-09-11-Codeforces%20Round%20897%20(Div.%202)/) | 3/7             | 3262  |
 | 27 | [2023-09-07-Codeforces Round 895 (Div. 3)](./2023-09-07-Codeforces%20Round%20895%20(Div.%203)/) | 4/7             | 4101  |
 | 26 | [2023-08-31-Educational Codeforces Round 154 (Rated for Div. 2)](./2023-08-31-Educational%20Codeforces%20Round%20154%20(Rated%20for%20Div.%202)/) | 2/6             | 3520  |
-| 25 | [2023-08-30-Pinely Round 2 (Div. 1 + Div. 2)](./2023-08-30-Pinely%20Round%202%20(Div.%201%20%2B%20Div.%202)/)                 | 3/9             | 4/9   |
+| 25 | [2023-08-30-Pinely Round 2 (Div. 1 + Div. 2)](./2023-08-30-Pinely%20Round%202%20(Div.%201%20%2B%20Div.%202)/)                 | 4/9             | 3919   |
 | 24 | [2023-08-26-Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)](./2023-08-26-Harbour.Space%20Scholarship%20Contest%202023-2024%20(Div.%201%20%2B%20Div.%202)/) | 3/9             | 3390  |
 | 23 | [2023-08-24-Codeforces Round 894 (Div. 3)](./2023-08-24-Codeforces%20Round%20894%20(Div.%203)/)                         | 3/7             | 7008  |
 | 22 | [2023-08-17-Educational Codeforces Round 153 (Rated for Div. 2)](./2023-08-17-Educational%20Codeforces%20Round%20153%20(Rated%20for%20Div.%202)/) | 3/6             | 2493  |
