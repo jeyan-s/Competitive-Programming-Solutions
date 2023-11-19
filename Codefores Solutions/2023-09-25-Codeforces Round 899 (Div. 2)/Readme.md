@@ -19,7 +19,7 @@ Welcome to my repository for the Codeforces Round 899 (Div. 2) contest! Here, yo
 ## Problems
 
 - **A - [Increasing Sequence](https://codeforces.com/contest/1882/problem/A)**
-- **B - [Sets and Union](https://codeforces.com/contest/1882/problem/B)**
+- **B - [Sets and Unions](https://codeforces.com/contest/1882/problem/B)**
 
 ## Solutions in C++
 
