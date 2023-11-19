@@ -10,6 +10,8 @@ My solutions for these contests are primarily written in C++ and Python.
 
 | #  | Contest Name                                           | Problems Solved | Rank  |
 | -- | ------------------------------------------------------ | --------------- | ----- |
+| 31 | [Codeforces Round 900 (Div. 3)](./2023-09-26-Codeforces%20Round%20900%20(Div.%203)/) | 4/7             | 3427  |
+| 30 | [Codeforces Round 899 (Div. 2)](./2023-09-25-Codeforces%20Round%20899%20(Div.%202)/) | 2/6             | 5352  |
 | 29 | [2023-09-24-Educational Codeforces Round 155 (Rated for Div. 2)](./2023-09-24-Educational%20Codeforces%20Round%20155%20(Rated%20for%20Div.%202)) | 3/6             | 4479  |
 | 28 | [2023-09-11-Codeforces Round 897 (Div. 2)](./2023-09-11-Codeforces%20Round%20897%20(Div.%202)/) | 3/7             | 3262  |
 | 27 | [2023-09-07-Codeforces Round 895 (Div. 3)](./2023-09-07-Codeforces%20Round%20895%20(Div.%203)/) | 4/7             | 4101  |
